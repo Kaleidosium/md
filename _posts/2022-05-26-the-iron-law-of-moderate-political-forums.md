@@ -5,8 +5,6 @@ date: 2022-05-26 08:27:53 -0000
 categories: Effortpost Politics
 ---
 
-# The Iron Law of Moderate Political Forums
-
 ## **Introduction**
 
 I’m not the first to observe that some Extremist Political Forums had a moderate start. This could be regular for-its-own-sake political forums, or what I call “counter-forums”, online forums made to counter another political forum. But I don’t think I’ve heard of a term to describe it, so I coined “The Iron Law of Moderate Political Forums” as a sort of nod to the Iron Law of Oligarchy as described in Why Nations Fail.
@@ -17,22 +15,19 @@ In a way, this is the reverse phenomenon of [Sanewashing and Social Gentrificati
 
 While most of these examples use Subreddits, I decided to use the generic name “forum” because I think this isn’t just a Reddit problem, it’s related to how humans with extreme views react to the other extreme side of a political debate online (Some non-subreddits like [RationalWiki seemed to have fallen into this phenomenon as well](https://i.redd.it/cjexbu768oc61.png)).
 
-
 ## **The For-Its-Own-Sake Example**
 
 Let’s start this with a timeline, Someone made a subreddit on reddit and it's about a certain political topics, now, usually these subreddits have a soft of bias already due to the main topic it is discussing, for example, r/IronFrontUSA already has a left-bias naturally due to it responding to the rise of the far-right in America. If it's a general political subreddit, it could also be because of the main attitudes of the general site, on Reddit, that being left-wing populism, reminder that before Bernie and the Democratic Socialists, r/politics had a lot of Ron Paul and Goldbug Libertarians.
 
 At first, it most likely had a moderate-ish start, with Moderates being the majority, with a minority of users being Extremists. But overtime, due to the spread of the knowledge of the subreddit to more extreme subs, the “Radicals” take over the subreddit’s demography. and even pushing long-time Moderates out too, scaring them out. Thus finally making the subreddit from a moderate place, to an extreme political subreddit.
 
-
 ## **The Counter-Forum Example**
 
 It’s a similar story, but with some additions. Let’s say someone made a right-wing subreddit dedicated to mock “leftists” (Which also tends to include Liberals and people not from the Socialist Tradition). On Reddit, It is likely that there’s a Left-wing counter subreddit dedicated to mocking “righties”. It also doesn’t have to just counter one forum, it could also be an umbrella counter-forum that was made in response to several right-wing forums.
 
-Just like with the For-Its-Own-Sake Example, the Extremists (This case The Extreme Left i.e. Tankies) take over and Pushout the Moderates (This case Social Liberals and Moderate Social Democrats/Socialists). The thing is, it could also make the original extreme subreddit it was countering, even more extreme. 
+Just like with the For-Its-Own-Sake Example, the Extremists (This case The Extreme Left i.e. Tankies) take over and Pushout the Moderates (This case Social Liberals and Moderate Social Democrats/Socialists). The thing is, it could also make the original extreme subreddit it was countering, even more extreme.
 
 So in the case of this right-wing subreddit, you start seeing Religious Theocrats, Fascists, and other flavours of the extreme right popping up there and being the “regular” users. Thankfully Reddit tends to be more hostile to right-wing extremists than left-wing extremists, so this point is at least moot on here. It is still a concern however.
-
 
 ## **How do we break it?**
 
@@ -41,6 +36,7 @@ So, how do we break this “Iron Law”, I can really only think of one solution
 As of now, this is literally the only true solution to this iron law problem, but as of now, it seems like r/neoliberal despite the mods being trigger-happy at times, I conclude this essay and thank you for reading.
 
 ## TL;DR
+
 _The Iron Law of Moderate Political Forums stipulates that any moderate political smelling forums will ultimately have people from the extreme side of the same wing taking over, thus making it an extremist forum. In the case of forums made to counter another political forum, It may also make the original forum(s) it was countering more radical in response. It is essentially inevitable without proper and strict moderation and gatekeeping the extremists._
 
 ---
