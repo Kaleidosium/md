@@ -11,7 +11,7 @@ I’m not the first to observe that some Extremist Political Forums had a modera
 
 For instance, r/TheRightCantMeme had moderate Social Liberals and Social Democrats as regulars before going full far-leftist, and recently r/GenUSA started to have its right-leaning members dominate, and caused a commotion when u/khharagosh, a r/neoliberal user replied to a [comment about abortion](https://cdn.discordapp.com/attachments/644003179364876309/971495481203114024/Screenshot_20220504-153520_Reddit.jpg), and I assume it’ll go the way of most of these forums.
 
-In a way, this is the reverse phenomenon of [Sanewashing and Social Gentrification](https://tracingwoodgrains.medium.com/r-antiwork-a-tragedy-of-sanewashing-and-social-gentrification-56298af1c1a7) as described by [u/inverseflorida](https://old.reddit.com/r/neoliberal/comments/js84tu/how_did_defund_the_police_stop_meaning_defund_the/) and [status451](https://status451.com/2016/09/15/social-gentrification/).
+In a way, this is the reverse phenomenon of [Sanewashing and Social Gentrification](https://tracingwoodgrains.medium.com/r-antiwork-a-tragedy-of-sanewashing-and-social-gentrification-56298af1c1a7) as described by [u/inverseflorida](https://reddit.com/r/neoliberal/comments/js84tu/how_did_defund_the_police_stop_meaning_defund_the/) and [status451](https://status451.com/2016/09/15/social-gentrification/).
 
 While most of these examples use subreddits, I decided to use the generic name “forum” because I think this isn’t just a Reddit problem, it’s related to how humans with extreme views react to the other extreme side of a political debate online (Some non-subreddits like [RationalWiki seemed to have fallen into this phenomenon as well](https://i.redd.it/cjexbu768oc61.png)).
 
