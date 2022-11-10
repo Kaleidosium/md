@@ -13,7 +13,7 @@ For instance, r/TheRightCantMeme had moderate Social Liberals and Social Democra
 
 In a way, this is the reverse phenomenon of [Sanewashing and Social Gentrification](https://tracingwoodgrains.medium.com/r-antiwork-a-tragedy-of-sanewashing-and-social-gentrification-56298af1c1a7) as described by [u/inverseflorida](https://old.reddit.com/r/neoliberal/comments/js84tu/how_did_defund_the_police_stop_meaning_defund_the/) and [status451](https://status451.com/2016/09/15/social-gentrification/).
 
-While most of these examples use Subreddits, I decided to use the generic name “forum” because I think this isn’t just a Reddit problem, it’s related to how humans with extreme views react to the other extreme side of a political debate online (Some non-subreddits like [RationalWiki seemed to have fallen into this phenomenon as well](https://i.redd.it/cjexbu768oc61.png)).
+While most of these examples use subreddits, I decided to use the generic name “forum” because I think this isn’t just a Reddit problem, it’s related to how humans with extreme views react to the other extreme side of a political debate online (Some non-subreddits like [RationalWiki seemed to have fallen into this phenomenon as well](https://i.redd.it/cjexbu768oc61.png)).
 
 ## **The For-Its-Own-Sake Example**
 
@@ -25,13 +25,13 @@ At first, it most likely had a moderate-ish start, with Moderates being the majo
 
 It’s a similar story, but with some additions. Let’s say someone made a right-wing subreddit dedicated to mock “leftists” (Which also tends to include Liberals and people not from the Socialist Tradition). On Reddit, It is likely that there’s a Left-wing counter subreddit dedicated to mocking “righties”. It also doesn’t have to just counter one forum, it could also be an umbrella counter-forum that was made in response to several right-wing forums.
 
-Just like with the For-Its-Own-Sake Example, the Extremists (This case The Extreme Left i.e. Tankies) take over and Pushout the Moderates (This case Social Liberals and Moderate Social Democrats/Socialists). The thing is, it could also make the original extreme subreddit it was countering, even more extreme.
+Just like with the For-Its-Own-Sake Example, the extremists (in this case the extreme left i.e. Tankies) take over and push out the moderates (in this case Social Liberals and Moderate Social Democrats/Socialists). The thing is, it could also make the original extreme subreddit it was countering, even more extreme.
 
-So in the case of this right-wing subreddit, you start seeing Religious Theocrats, Fascists, and other flavours of the extreme right popping up there and being the “regular” users. Thankfully Reddit tends to be more hostile to right-wing extremists than left-wing extremists, so this point is at least moot on here. It is still a concern however.
+So in the case of this right-wing subreddit, you start seeing Religious Theocrats, Fascists, and other flavours of the extreme right popping up there and being the “regular” users. Thankfully Reddit tends to be more hostile to right-wing extremists than left-wing extremists, so this point is at least moot there. It is still a concern on other sites however.
 
 ## **How do we break it?**
 
-So, how do we break this “Iron Law”, I can really only think of one solution. Strict Moderating and Audit of Forumusers to Gatekeep the Extremists. This is what r/neoliberal does, while its regulars love to complain about its “fash” mods, they are doing us a favour by making sure the discussion stays moderate and that extremist users behave and/or stay out.
+So, how do we break this “Iron Law”, I can really only think of one solution. Strict moderating and Audit of forum users to gatekeep the extremists. This is what r/neoliberal does, while its regulars love to complain about its “fash” mods, they are doing us a favour by making sure the discussion stays moderate and that extremist users behave and/or stay out.
 
 As of now, this is literally the only true solution to this iron law problem, but as of now, it seems like r/neoliberal despite the mods being trigger-happy at times, I conclude this essay and thank you for reading.
 
@@ -41,4 +41,4 @@ _The Iron Law of Moderate Political Forums stipulates that any moderate politica
 
 ---
 
-[Discussion on r/neoliberal](https://www.reddit.com/r/neoliberal/comments/uy2w1m/the_iron_law_of_moderate_political_forums_an/).
+[Original post and discussion on r/neoliberal](https://www.reddit.com/r/neoliberal/comments/uy2w1m/the_iron_law_of_moderate_political_forums_an/).
