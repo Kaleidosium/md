@@ -20,7 +20,7 @@ entries:
     show_more_text: See more posts...
     show_more_url: monet-archive.html
   
-  - title: social sciences
+  - title: social science and philosophy 
     post_list:
       category: weber
       show_more: true
