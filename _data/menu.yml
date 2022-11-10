@@ -26,3 +26,8 @@ entries:
       show_more: true
       show_more_text: See more posts...
       show_more_url: weber-archive.html
+
+  - title: rss
+    url: feed.xml
+
+  - title: all posts are under CC BY-SA 4.0 unless stated otherwise
