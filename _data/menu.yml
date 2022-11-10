@@ -7,18 +7,18 @@ entries:
       show_more_url: archive.html
 
   - title: programming
-  post_list:
-    category: lovelace
-    show_more: true
-    show_more_text: See more posts...
-    show_more_url: lovelace-archive.html
+    post_list:
+      category: lovelace
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: lovelace-archive.html
   
   - title: art
-  post_list:
-    category: monet
-    show_more: true
-    show_more_text: See more posts...
-    show_more_url: monet-archive.html
+    post_list:
+      category: monet
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: monet-archive.html
   
   - title: social science and philosophy 
     post_list:
