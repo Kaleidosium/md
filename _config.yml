@@ -4,7 +4,7 @@ email: # email of site's author
 url: https://kaleidosium.github.io/ # root address of the site
 baseurl: "/md" # subpath of the site, e.g. "/blog" (leave it blank "" if your site doesn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A collection of my written essays.
+  A collection of my written essays. all posts are under CC BY-SA 4.0 unless stated otherwise.
 
 permalink: /:slug.html
 
