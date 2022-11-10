@@ -5,7 +5,7 @@ date: 2020-02-26 12:45:51 +0700
 categories: effortpost lovelace
 ---
 
-> NOTE: This is an old article written by me for my old website, I have updated and removed parts of this essay to fit my current views on this issue.
+> NOTE: This is an old article written for my old website. I have updated and removed parts of this essay to fit my current views on this issue.
 
 ## Preface
 
