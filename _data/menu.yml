@@ -12,15 +12,15 @@ entries:
       show_more: true
       show_more_text: See more posts...
       show_more_url: lovelace-archive.html
-  
+
   - title: art
     post_list:
       category: monet
       show_more: true
       show_more_text: See more posts...
       show_more_url: monet-archive.html
-  
-  - title: social science and philosophy 
+
+  - title: social science and philosophy
     post_list:
       category: weber
       show_more: true
