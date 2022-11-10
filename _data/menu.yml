@@ -1,7 +1,28 @@
 entries:
-  - title: all
+  - title: all posts
     post_list:
       limit: 5
       show_more: true
-      show_more_text: show more.
+      show_more_text: Show more...
       show_more_url: archive.html
+
+  - title: programming
+  post_list:
+    category: lovelace
+    show_more: true
+    show_more_text: See more posts...
+    show_more_url: lovelace-archive.html
+  
+  - title: art
+  post_list:
+    category: monet
+    show_more: true
+    show_more_text: See more posts...
+    show_more_url: monet-archive.html
+  
+  - title: politics & economics
+    post_list:
+      category: ricardo
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: ricardo-archive.html
