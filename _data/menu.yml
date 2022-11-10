@@ -1,0 +1,7 @@
+entries:
+  - title: all
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: show more.
+      show_more_url: archive.html
