@@ -20,9 +20,9 @@ entries:
     show_more_text: See more posts...
     show_more_url: monet-archive.html
   
-  - title: politics & economics
+  - title: social sciences
     post_list:
-      category: ricardo
+      category: weber
       show_more: true
       show_more_text: See more posts...
-      show_more_url: ricardo-archive.html
+      show_more_url: weber-archive.html
