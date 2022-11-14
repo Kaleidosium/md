@@ -39,4 +39,4 @@ Point is, it doesn't matter if it's closed or open, I use what works, and so sho
 
 ### Stop the Source Begging
 
-Seriously, just stop. I don't even know how to write this down, begging for people's source code that they worked hard on is just petty. I have no problem if they release the code after a beg, but if you do it _multiple_ times, it gets annoying and they probably don't want to open it even more. Case in point CEMU until recently had been a closed-source project.
+Seriously, just stop. I don't even know how to write this down, begging for people's source code that they worked hard on is just petty. I have no problem if they release the code after a beg, but if you do it _multiple_ times, it gets annoying and they probably don't want to open it even more. Case in point CEMU until recently had been a closed-source project and its developers have reported high amounts of harassment from a minority of people asking them why it wasn't FOSS already.
