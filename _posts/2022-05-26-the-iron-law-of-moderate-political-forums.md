@@ -31,7 +31,7 @@ So in the case of this right-wing subreddit. You start seeing Religious Theocrat
 
 ## How do we break it?
 
-So, how do we break this “Iron Law”, I can only think of one solution that works. Strict moderating and Audit of forum users to gatekeep the extremists. This is what r/neoliberal does, while its regulars love to complain about its “fash” mods. They are doing us a favour by making sure the discussion stays moderate and that extremist users behave and/or stay out.
+So, how do we break this “Iron Law”, I can only think of one solution that works. Strict moderating and Audit of forum users to gatekeep the extremists. This is what r/neoliberal does, while its regulars love to complain about its “fash” mods. They are doing a favour by making sure the discussion stays moderate and that extremist users behave and/or stay out.
 
 As of now, r/neoliberal's model is the only true solution to this iron law problem that I know of, despite the mods being trigger-happy at times. Perhaps one day we'll have a more libertarian model that isn't too beholden to the whims of the mods.
 
