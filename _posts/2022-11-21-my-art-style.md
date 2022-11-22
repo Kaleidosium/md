@@ -25,7 +25,7 @@ When I was young, my parents were very strict. They only allowed 2 Hours of inte
 
 What I did have was a lot of books and comics. I got into these printed mediums and read them every day after school during this era. I started to draw a little around then, Yet, I never took it seriously.
 
-But, the impression I got from these comics from a thousand kilometres seeped deeply into my style preferences. I have subconsciously developed my art style into something that can be seen as inspired by them.
+But, the impression I got from these comics from thousands of kilometres away seeped deeply into my style preferences. I have subconsciously developed my art style into something that can be seen as inspired by them.
 
 ## Other inspirations
 
