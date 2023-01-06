@@ -5,8 +5,6 @@ date: 2023-01-06 11:01:40 +0000
 categories: effortpost monet
 ---
 
-# How I design Robot Furries
-
 An opinionated guide to designing mechanical furry characters.
 
 ## Introduction
