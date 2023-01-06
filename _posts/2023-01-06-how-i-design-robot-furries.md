@@ -71,6 +71,10 @@ Sometimes going wild can be good, even if it doesn't fit. What's important is th
 
 I would like to thank Aistarin, Frogmary, lastfirst, Neko May, PinkHairedCat, et al. for the help and feedback on the draft. To anyone who found this helpful, thank you for reading!
 
+---
+
+Footnotes:
+
 [^1]: Brookes Eggleston made a video about [how to derivative-proof your characters](https://youtu.be/wl4N0SGtdbo) which you should watch if you're worried about this.
 
 [^2]: See [Wikipedia to learn more](https://en.wikipedia.org/wiki/Mood_board) about them. For my workflow, I use [PureRef](https://www.pureref.com/).
