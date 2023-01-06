@@ -73,7 +73,7 @@ I would like to thank Aistarin, Frogmary, lastfirst, Neko May, PinkHairedCat, et
 
 ---
 
-Footnotes:
+### Footnotes
 
 [^1]: Brookes Eggleston made a video about [how to derivative-proof your characters](https://youtu.be/wl4N0SGtdbo) which you should watch if you're worried about this.
 
